@@ -1,0 +1,56 @@
+body {
+    background-color: #e3fdfd;
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 4.375rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2.375rem;
+    color: #66BFBF;
+
+}
+
+h3 {
+    font-family: 'Orbitron', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #11999E;
+}
+
+.top-container {
+    margin-top: 80px;
+}
+
+.pro {
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 440px;
+    bottom: 490px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 20px;
+}
