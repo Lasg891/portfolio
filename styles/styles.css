@@ -43,10 +43,12 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+
 .bottom-cloud {
     position: absolute;
-    left: 440px;
+    left: 690px;
     bottom: 490px;
+    top:320px
 }
 
 .top-cloud {
